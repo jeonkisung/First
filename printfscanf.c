@@ -25,10 +25,10 @@ int main(void)
 
 	// scanf
 	//키보드 입력을 받아서 저장 
-	int input;
+	/*int input;
 	printf("값을 입력하세요 : ");
-	scanf("%d", &input);
 	scanf_s("%d", &input);
-	printf("입렵값 : %d\n", input)
+	printf("입렵값 : %d\n", input);*/
+	
 	return 0;
 }
