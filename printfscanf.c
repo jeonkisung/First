@@ -29,6 +29,6 @@ int main(void)
 	printf("값을 입력하세요 : ");
 	scanf("%d", &input);
 	scanf_s("%d", &input);
-
+	printf("입렵값 : %d\n", input)
 	return 0;
 }
