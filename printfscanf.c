@@ -19,8 +19,16 @@ int main(void)
 
 	// printf
 	// 연산 
-	int add = 3 + 7; // 10 
+	//int add = 3 + 7; // 10 
 	//printf("3+7=%d\n", add);
-	printf(" % d + % d = % d\n", 30, 79, 30 * 79);
+	//printf(" % d + % d = % d\n", 30, 79, 30 * 79);
+
+	// scanf
+	//키보드 입력을 받아서 저장 
+	int input;
+	printf("값을 입력하세요 : ");
+	scanf("%d", &input);
+	scanf_s("%d", &input);
+
 	return 0;
 }
