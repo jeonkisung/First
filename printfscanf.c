@@ -45,5 +45,9 @@ int main(void)
 	scanf_s("%s", str, sizeof(str));
 	printf("%s\n", str);*/
 
+	// 프로젝트
+	// 경찰관이 범죄자의 정보를 입수(조서작성)
+	// 이름? 나이? 몸무게? 키? 범죄명?
+	
 	return 0;
 }
