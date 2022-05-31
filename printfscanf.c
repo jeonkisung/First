@@ -30,5 +30,9 @@ int main(void)
 	scanf_s("%d", &input);
 	printf("입렵값 : %d\n", input);*/
 	
+	int one, two, three;
+	printf("3개의 정수를 입력하세요 : ");
+	scanf_s("%d%d%d", &one, &two, &three);
+
 	return 0;
 }
