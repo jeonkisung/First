@@ -37,5 +37,10 @@ int main(void)
 	printf("두번째 값 : %d\n", two);
 	printf("세번째 값 : %d\n", three);*/
 
+	// 문자(한 글자), 문자열(한 글자 이상의 여러 글자)
+	/*char c = 'A' ;
+	printf("%c\n", c); */
+
+
 	return 0;
 }
