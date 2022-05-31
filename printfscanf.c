@@ -41,9 +41,9 @@ int main(void)
 	/*char c = 'A' ;
 	printf("%c\n", c); */
 
-	char str[256];
+	/*char str[256];
 	scanf_s("%s", str, sizeof(str));
-	printf("%s\n", str);
+	printf("%s\n", str);*/
 
 	return 0;
 }
