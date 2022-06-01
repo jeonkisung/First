@@ -48,7 +48,7 @@ int main(void)
 	// 프로젝트
 	// 경찰관이 범죄자의 정보를 입수(조서작성)
 	// 이름? 나이? 몸무게? 키? 범죄명?
-	char name[256];
+	/*char name[256];
 	printf("이름이 뭐예요? ");
 	scanf_s("%s, name,sizeof(name)");
 
@@ -74,7 +74,7 @@ int main(void)
 	printf(" 나이      : %d\n", age);
 	printf(" 몸무게    : %.2f\n", weight);
 	printf(" 키        : %.2lf\n", height);
-	printf(" 범죄      : %s\n", what);
+	printf(" 범죄      : %s\n", what);*/
 
 	return 0;
 }
